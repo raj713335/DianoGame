@@ -1,5 +1,5 @@
 # DianoGame
-Created a game taking inspiration from Goggle Chrome DianoGame using Processiong and Reinforcement Learning and Java.
+Created a game taking inspiration from Google Chrome DianoGame using Processiong and Reinforcement Learning and Java.
 
 
 <p align="center">
